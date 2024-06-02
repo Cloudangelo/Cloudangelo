@@ -3,10 +3,11 @@
 <h2>👨‍💻 Cloud & Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/nebularfx/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Cloudangelo/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nebularfx/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nebularfx/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cloudangelo/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cloudangelo/azure-network-protocols)
+  - [Powershell Cloud File Uploader CLI Tool (Blob Storage)](https://github.com/Cloudangelo/clouduploadercli)
 
 <h2>🤳Connect with me:</h2>
 
